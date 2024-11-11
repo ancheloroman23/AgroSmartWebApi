@@ -16,10 +16,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{571CE427-A233-47E4-876B-14ABA75E1D10}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{5DB37579-441F-442F-A53F-591E336D3E16}"
-	ProjectSection(SolutionItems) = preProject
-		ComandoSQL.txt = ComandoSQL.txt
-		Para el ConnectionString.txt = Para el ConnectionString.txt
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgroSmart.Core.Domain", "AgroSmart.Core.Domain\AgroSmart.Core.Domain.csproj", "{646AA5CA-7B0A-4706-84E2-8C013643841F}"
 EndProject
